@@ -58,7 +58,7 @@ I will write a sentence that has one word in **_italicbold_**.
 
 **Question 7** With Markdown add a cat picture.
 
-![unsplah](https://unsplash.com/photos/MEb2jandkbc/images/unsplah.jpg)
+![unsplash](https://unsplash.com/photos/IZ7W626JoQs)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
