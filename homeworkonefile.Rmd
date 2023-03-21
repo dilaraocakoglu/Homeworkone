@@ -56,9 +56,7 @@ I will write a sentence that has one word in **_italicbold_**.
 
 [yoyo chinese!](https://yoyochinese.com/)
 
-**Question 7** With Markdown add a cat picture.
-
-![photos/IZ7W626JoQs](https://unsplash.com/photos/IZ7W626JoQs)
+**Question 7** With Markdown add a cat picture. ![cat-toes-paw-number-paws-tiger-tabby](https://cdn.britannica.com/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
